@@ -2,27 +2,27 @@ GitHub es una plataforma en línea para el alojamiento y la gestión de código 
 
 ¿Por qué es tan útil?
 
-- Control de versiones 
+- Control de versiones -
 
 Permite llevar un historial completo de cambios en el código, lo que facilita la identificación de errores y la restauración de versiones anteriores.
 
-- Colaboración remota 
+- Colaboración remota - 
 
 Equipos de cualquier parte del mundo pueden trabajar juntos en un mismo proyecto sin problemas de sincronización.
 
-- Facilita el desarrollo de software 
+- Facilita el desarrollo de software -
 
 Con características como pull requests, issues, y branches, los desarrolladores pueden organizar su trabajo y revisar el código de forma eficiente.
 
-- Integración con otras herramientas 
+- Integración con otras herramientas -
 
 Se conecta con CI/CD (Integración y entrega continua), automatización de pruebas, despliegue en la nube y muchas otras plataformas.
 
-- Seguridad y control de acceso 
+- Seguridad y control de acceso -
 
 Ofrece opciones para proyectos privados y públicos, así como permisos de acceso para diferentes usuarios.
 
-- Amplia comunidad y ecosistema 
+- Amplia comunidad y ecosistema -
 
 Millones de desarrolladores comparten código abierto, lo que permite aprender, contribuir y reutilizar soluciones en distintos proyectos.
 
